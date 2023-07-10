@@ -1,0 +1,10 @@
+variable "subnets" {}
+variable "name" {}
+variable "env" {}
+variable "vpc_id" {}
+variable "allow_db_cidr" {}
+variable "tags" {}
+variable "port" {}
+variable "bastion_cidr" {}
+variable "kms_arn" {}
+variable "instance_type" {}
